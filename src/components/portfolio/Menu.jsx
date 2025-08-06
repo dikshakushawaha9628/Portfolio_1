@@ -16,7 +16,7 @@ const Menu = [
 		id: 2,
 		image: Work2,
 		title: "BookStore",
-		category: ["Frontend", "Backend","React"],
+		category: ["Frontend", "Backend","React","Tailwind"],
 		url: "https://book-store-m7jk.vercel.app",
 		repositoryUrl: "https://github.com/dikshakushawaha9628/BookStore"
 	},
@@ -24,7 +24,7 @@ const Menu = [
 		id: 3,
 		image: Work3,
 		title: "Portfolio",
-		category: ["Frontend"],
+		category: ["Frontend", "CSS","React-parallax-tilt"],
 		url: "https://dikshakushawaha-five.vercel.app",
 		repositoryUrl: "https://github.com/dikshakushawaha9628/Portfolio_1"
 	},
@@ -32,7 +32,7 @@ const Menu = [
 		id: 4,
 		image: Work4,
 		title: "TalkSy-Chatapp+Call",
-		category: ["Frontend","Backend"],
+		category: ["Frontend","Backend", "DaisyUi", "Tailwind", "GetStreamio"],
 		url: "https://talk-sy.vercel.app/",
 		repositoryUrl: "https://github.com/dikshakushawaha9628/TalkSy"
 	}
