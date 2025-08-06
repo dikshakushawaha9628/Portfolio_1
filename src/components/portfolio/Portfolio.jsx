@@ -34,9 +34,7 @@ const Portfolio = () => {
 				<span className={activeFilter === 3 ? 'portfolio__item portfolio__item-active' : 'portfolio__item'} onClick={() => { filterItems("Angular"); setActiveFilter(3) }}>
 					UI-UX
 				</span>
-				<span className={activeFilter === 4 ? 'portfolio__item portfolio__item-active' : 'portfolio__item'} onClick={() => { filterItems("React"); setActiveFilter(4) }}>
-					React
-				</span>
+				
 			</div>
 
 			<div className="portfolio__container grid">

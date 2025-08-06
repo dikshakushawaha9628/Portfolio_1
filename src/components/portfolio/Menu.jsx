@@ -1,7 +1,7 @@
-import Work1 from "../../assets/native-jobs.png";
-import Work2 from "../../assets/cryptoverse.png";
-import Work3 from "../../assets/travel.png";
-import Work4 from "../../assets/blog-1.svg";
+import Work1 from "../../assets/Work1.png"
+import Work2 from "../../assets/Work2.png"
+import Work3 from "../../assets/Work3.png"
+import Work4 from "../../assets/Work4.png"
 
 const Menu = [
 	{
@@ -15,26 +15,26 @@ const Menu = [
 	{
 		id: 2,
 		image: Work2,
-		title: "Cryptoverse",
-		category: ["Frontend", "React"],
-		url: "https://cryptoverse.gregsithole.com",
-		repositoryUrl: "https://github.com/GregSithole/crypto-app"
+		title: "BookStore",
+		category: ["Frontend", "Backend","React"],
+		url: "https://book-store-m7jk.vercel.app",
+		repositoryUrl: "https://github.com/dikshakushawaha9628/BookStore"
 	},
 	{
 		id: 3,
 		image: Work3,
-		title: "Travel Advisor",
+		title: "Portfolio",
 		category: ["Frontend"],
-		url: "https://travel.gregsithole.com",
-		repositoryUrl: "https://github.com/GregSithole/travel-advisor"
+		url: "https://dikshakushawaha-five.vercel.app",
+		repositoryUrl: "https://github.com/dikshakushawaha9628/Portfolio_1"
 	},
 	{
 		id: 4,
 		image: Work4,
-		title: "Wallhaven CLI",
-		category: ["Backend"],
-		url: "https://www.npmjs.com/package/wallhaven-cli",
-		repositoryUrl: "https://github.com/GregSithole/wallhaven-cli"
+		title: "TalkSy-Chatapp+Call",
+		category: ["Frontend","Backend"],
+		url: "https://talk-sy.vercel.app/",
+		repositoryUrl: "https://github.com/dikshakushawaha9628/TalkSy"
 	}
 ];
 
