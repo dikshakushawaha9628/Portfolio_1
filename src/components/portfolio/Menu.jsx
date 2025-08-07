@@ -33,7 +33,7 @@ const Menu = [
 		image: Work4,
 		title: "TalkSy-Chatapp+Call",
 		category: ["Frontend","Backend", "DaisyUi", "Tailwind", "GetStreamio"],
-		url: "https://talk-sy.vercel.app/",
+		url: "https://talk-sy-oh9u.vercel.app",
 		repositoryUrl: "https://github.com/dikshakushawaha9628/TalkSy"
 	}
 ];
