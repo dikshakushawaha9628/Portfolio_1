@@ -2,6 +2,7 @@ import Work1 from "../../assets/Work1.png"
 import Work2 from "../../assets/Work2.png"
 import Work3 from "../../assets/Work3.png"
 import Work4 from "../../assets/Work4.png"
+import Work5 from "../../assets/Work5.png"
 
 const Menu = [
 	{
@@ -35,7 +36,15 @@ const Menu = [
 		category: ["Frontend","Backend", "DaisyUi", "Tailwind", "GetStreamio"],
 		url: "https://talk-sy-oh9u.vercel.app",
 		repositoryUrl: "https://github.com/dikshakushawaha9628/TalkSy"
-	}
+	},
+	{
+		id: 5,
+		image: Work5,
+		title: "Shopping App UI Design",
+		category: ["Designing","Figma"],
+		url: "https://www.behance.net/gallery/232094991/Shopping-App-UI-Design",
+		repositoryUrl: "#"
+	},
 ];
 
 export default Menu;
